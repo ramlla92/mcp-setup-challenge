@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+
+# Data files
+*.csv
+*.xlsx
+*.json
+
+# Plots / images
+*.png
+*.jpg
+*.jpeg
+
+# IDE config
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
