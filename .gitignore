@@ -11,10 +11,7 @@ venv/
 *.xlsx
 *.json
 
-# Plots / images
-*.png
-*.jpg
-*.jpeg
+
 
 # IDE config
 .vscode/
